@@ -1,0 +1,160 @@
+{
+  "statelist": [
+    {
+      "id": 1,
+      "State": "Adalar"
+    },
+    {
+      "id": 2,
+      "State": "Arnavutköy"
+    },
+    {
+      "id": 3,
+      "State": "Ataşehir"
+    },
+    {
+      "id": 4,
+      "State": "Avcılar"
+    },
+    {
+      "id": 5,
+      "State": "Bağcılar"
+    },
+    {
+      "id": 6,
+      "State": "Bahçelievler"
+    },
+    {
+      "id": 7,
+      "State": "Bakırköy"
+    },
+    {
+      "id": 8,
+      "State": "Başakşehir"
+    },
+    {
+      "id": 9,
+      "State": "Bayrampaşa"
+    },
+    {
+      "id": 10,
+      "State": "Beşiktaş"
+    },
+    {
+      "id": 11,
+      "State": "Beykoz"
+    },
+    {
+      "id": 12,
+      "State": "Beylikdüzü"
+    },
+    {
+      "id": 13,
+      "State": "Beyoğlu"
+    },
+    {
+      "id": 14,
+      "State": "Büyükçekmece"
+    },
+    {
+      "id": 15,
+      "State": "Çatalca"
+    },
+    {
+      "id": 16,
+      "State": "Çekmeköy"
+    },
+    {
+      "id": 17,
+      "State": "Esenler"
+    },
+    {
+      "id": 18,
+      "State": "Esenyurt"
+    },
+    {
+      "id": 19,
+      "State": "Eyüpsultan"
+    },
+    {
+      "id": 20,
+      "State": "Fatih"
+    },
+    {
+      "id": 21,
+      "State": "Gaziosmanpaşa"
+    },
+    {
+      "id": 22,
+      "State": "Güngören"
+    },
+    {
+      "id": 23,
+      "State": "Kadıköy"
+    },
+    {
+      "id": 24,
+      "State": "Kağıthane"
+    },
+    {
+      "id": 25,
+      "State": "Kartal"
+    },
+    {
+      "id": 26,
+      "State": "Küçükçekmece"
+    },
+    {
+      "id": 27,
+      "State": "Maltepe"
+    },
+    {
+      "id": 28,
+      "State": "Pendik"
+    },
+    {
+      "id": 29,
+      "State": "Sancaktepe"
+    },
+    {
+      "id": 29,
+      "State": "Sarıyer"
+    },
+    {
+      "id": 30,
+      "State": "Silivri"
+    },
+    {
+      "id": 31,
+      "State": "Sultanbeyli"
+    },
+    {
+      "id": 32,
+      "State": "Sultangazi"
+    },
+    {
+      "id": 33,
+      "State": "Şile"
+    },
+    {
+      "id": 34,
+      "State": "Şişli"
+    },
+    {
+      "id": 35,
+      "State": "Tuzla"
+    },
+    {
+      "id": 36,
+      "State": "Ümraniye"
+    },
+    {
+      "id": 37,
+      "State": "Üsküdar"
+    },
+    {
+      "id": 38,
+      "State": "Zeytinburnu"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Öz Marketim</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ayarlar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="email">Email</string>
+    <string name="passowrd">Şifre</string>
+    <string name="login">GİRİŞ YAP</string>
+    <string name="show_pwd">Şifre Göster</string>
+    <string name="hide_pwd">Şifre Gizle</string>
+    <string name="forgot">Şifremi unuttum</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser">Henüz üye olmadın mı? Kayıt ol.</string>
+    <string name="fullName">İsim Soyisim</string>
+    <string name="mobileNumber">Telefon Numarası</string>
+    <string name="location">Lokasyon</string>
+    <string name="confirmPassword">Şifreyi Onayla</string>
+    <string name="terms_conditions">Kullanım Koşullarını okudum ve kabul ediyorum.</string>
+    <string name="signUp">KAYIT OL</string>
+    <string name="already_user">Zaten hesabınız var mı? Giriş Yap.</string>
+    <string name="registered_emailid">Kayıtlı olduğun Email adresini gir:</string>
+    <string name="submit">ONAYLA</string>
+    <string name="back">GERİ</string>
+    <string name="action_Cart">Sepetim</string>
+</resources>

@@ -1,0 +1,199 @@
+{
+  "citylist": [
+    {
+      "id": 1,
+      "city": "İstanbul",
+      "State": "Adalar"
+    },
+    {
+      "id": 2,
+      "city": "İstanbul",
+      "State": "Arnavutköy"
+    },
+    {
+      "id": 3,
+      "city": "İstanbul",
+      "State": "Ataşehir"
+    },
+    {
+      "id": 4,
+      "city": "İstanbul",
+      "State": "Avcılar"
+    },
+    {
+      "id": 5,
+      "city": "İstanbul",
+      "State": "Bağcılar"
+    },
+    {
+      "id": 6,
+      "city": "İstanbul",
+      "State": "Bahçelievler"
+    },
+    {
+      "id": 7,
+      "city": "İstanbul",
+      "State": "Bakırköy"
+    },
+    {
+      "id": 8,
+      "city": "İstanbul",
+      "State": "Başakşehir"
+    },
+    {
+      "id": 9,
+      "city": "İstanbul",
+      "State": "Bayrampaşa"
+    },
+    {
+      "id": 10,
+      "city": "İstanbul",
+      "State": "Beşiktaş"
+    },
+    {
+      "id": 11,
+      "city": "İstanbul",
+      "State": "Beykoz"
+    },
+    {
+      "id": 12,
+      "city": "İstanbul",
+      "State": "Beylikdüzü"
+    },
+    {
+      "id": 13,
+      "city": "İstanbul",
+      "State": "Beyoğlu"
+    },
+    {
+      "id": 14,
+      "city": "İstanbul",
+      "State": "Büyükçekmece"
+    },
+    {
+      "id": 15,
+      "city": "İstanbul",
+      "State": "Çatalca"
+    },
+    {
+      "id": 16,
+      "city": "İstanbul",
+      "State": "Çekmeköy"
+    },
+    {
+      "id": 17,
+      "city": "İstanbul",
+      "State": "Esenler"
+    },
+    {
+      "id": 18,
+      "city": "İstanbul",
+      "State": "Esenyurt"
+    },
+    {
+      "id": 19,
+      "city": "İstanbul",
+      "State": "Eyüpsultan"
+    },
+    {
+      "id": 20,
+      "city": "İstanbul",
+      "State": "Fatih"
+    },
+    {
+      "id": 21,
+      "city": "İstanbul",
+      "State": "Gaziosmanpaşa"
+    },
+    {
+      "id": 22,
+      "city": "İstanbul",
+      "State": "Güngören"
+    },
+    {
+      "id": 23,
+      "city": "İstanbul",
+      "State": "Kadıköy"
+    },
+    {
+      "id": 24,
+      "city": "İstanbul",
+      "State": "Kağıthane"
+    },
+    {
+      "id": 25,
+      "city": "İstanbul",
+      "State": "Kartal"
+    },
+    {
+      "id": 26,
+      "city": "İstanbul",
+      "State": "Küçükçekmece"
+    },
+    {
+      "id": 27,
+      "city": "İstanbul",
+      "State": "Maltepe"
+    },
+    {
+      "id": 28,
+      "city": "İstanbul",
+      "State": "Pendik"
+    },
+    {
+      "id": 29,
+      "city": "İstanbul",
+      "State": "Sancaktepe"
+    },
+    {
+      "id": 29,
+      "city": "İstanbul",
+      "State": "Sarıyer"
+    },
+    {
+      "id": 30,
+      "city": "İstanbul",
+      "State": "Silivri"
+    },
+    {
+      "id": 31,
+      "city": "İstanbul",
+      "State": "Sultanbeyli"
+    },
+    {
+      "id": 32,
+      "city": "İstanbul",
+      "State": "Sultangazi"
+    },
+    {
+      "id": 33,
+      "city": "İstanbul",
+      "State": "Şile"
+    },
+    {
+      "id": 34,
+      "city": "İstanbul",
+      "State": "Şişli"
+    },
+    {
+      "id": 35,
+      "city": "İstanbul",
+      "State": "Tuzla"
+    },
+    {
+      "id": 36,
+      "city": "İstanbul",
+      "State": "Ümraniye"
+    },
+    {
+      "id": 37,
+      "city": "İstanbul",
+      "State": "Üsküdar"
+    },
+    {
+      "id": 38,
+      "city": "İstanbul",
+      "State": "Zeytinburnu"
+    }
+  ]
+}
